@@ -1,7 +1,7 @@
 Neutrino flavor evolution with advection: simulating dense astrophysical environments in 2D
 ====
 
-Description: We solve the schõdinger equation in 2D to simulate how a dense ensemble of neutrinos oscillates in dense astrophysical environments. 
+Description: We solve the Schrödinger equation in 2D to simulate how a dense ensemble of neutrinos oscillates in dense astrophysical environments. 
 These results are relevant for core-collapse supernovae and the mergers of neutron stars
 
 ## Journal reference: 
