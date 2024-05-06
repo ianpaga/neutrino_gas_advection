@@ -1,0 +1,3 @@
+#!/bin/bash
+
+c++ -O4 -I/groups/astro/ianpaga/boost_1_71_0 -fopenmp mu100-mu1e5-100by100by300.cpp -o mu100-mu1e5-100by100by300.out
